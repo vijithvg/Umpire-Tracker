@@ -19,7 +19,6 @@ struct DashboardView: View {
     var body: some View {
         VStack(alignment:.leading,spacing: 0) {
             ScoreboardHeaderView(match: match)
-                .background(Color.red)
             
             ScrollView {
                 VStack(spacing: 8) {
