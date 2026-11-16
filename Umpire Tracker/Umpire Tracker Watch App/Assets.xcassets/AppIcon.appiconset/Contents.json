@@ -1,6 +1,7 @@
 {
   "images" : [
     {
+      "filename" : "umpire_tracker_logo.png",
       "idiom" : "universal",
       "platform" : "watchos",
       "size" : "1024x1024"
